@@ -8,7 +8,7 @@ Enjoy! Feedback and PR's welcome!
 
 Prerequisites
 
-	JDK 1.7.0u71 or better
+	JDK 1.8.0u191 or better
 
 	Maven 3.3.9 or better
 
@@ -24,3 +24,11 @@ If you want to build only single projects then from the top directory first run
 
 
 This will make the utils jar available to all the projects.
+
+
+## update
+
+- JDK 1.8.0u191 or better
+- Netty 4.1.47.Final
+
+
